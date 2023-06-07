@@ -1,4 +1,5 @@
-# Olá, tudo bem? Eu sou a Lízia Towata   
+# Olá, tudo bem? Eu sou a Lízia Towata
 
-# 🌱 sou estudante de Desenvolvimento Web na Trybe
-
+# 🌱 Sou estudante de Desenvolvimento Web na Trybe
+# 
+# Suzano - SP
